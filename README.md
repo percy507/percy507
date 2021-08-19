@@ -9,6 +9,6 @@
 - 🚀 **My Github Stats**
 
   <p>
-    <img height="150" align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=percy507&show_icons=true&hide=issues&include_all_commits=true&count_private=true" />
-    <img height="150" align="right" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percy507&layout=compact" />
+    <img height="140" align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=percy507&show_icons=true&hide=issues&include_all_commits=true&count_private=true" />
+    <img height="140" align="right" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percy507&layout=compact" />
   </p>
